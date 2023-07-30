@@ -5,4 +5,6 @@ MATT is the bitcoin-friendly approach to smart contracts.
 ## Links
 
 * Website: https://merkle.fun
-* Code (Untested, WIP): https://github.com/Merkleize/bitcoin/tree/matt
+* Code
+  * `OP_CHECKCONTRACTVERIFY`: https://github.com/Merkleize/bitcoin/tree/checkcontractverify
+  * `OP_CHECKCONTRACTVERIFY` + `OP_CAT` (full MATT): https://github.com/Merkleize/bitcoin/tree/matt
